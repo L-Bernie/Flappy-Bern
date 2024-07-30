@@ -1,0 +1,13 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: #000;
+    color: white;
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("flappybernbg.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
